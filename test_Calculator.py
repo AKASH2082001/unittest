@@ -1,5 +1,3 @@
-import sys
-
 import Calculator
 
 import unittest
